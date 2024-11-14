@@ -4,9 +4,9 @@ O objetivo principal desse projeto é analisar os fatores e característiccas qu
 Iremos realizar várias análises exploratórias e modelagens preditivas para entender melhor os dados e identificar padrões ou correlações.
 
 ## Dados de origem
-Os dados de origem do projetos foram obtidos do dataset disponível publicamente pelo Kaggle em: https://www.kaggle.com/datasets/akashnath29/lung-cancer-dataset seguindo a licença Open Database License (ODbL) v1.0.
+Os dados de origem do projetos foram obtidos do dataset disponível publicamente pelo Kaggle em: https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer seguindo a licença CC0: Public Domain.
 
-Os dados resultantes deste projeto são disponibilizados de acordo com a licença ODbL v1.0.
+Os dados resultantes deste projeto são disponibilizados de acordo com a licença CC0.
 
 ## Planejamento
 ### Análise Exploratória de Dados

@@ -34,6 +34,7 @@
               pip
               playwright
               pypandoc
+              seaborn
               venvShellHook
               tensorflow
           ]);

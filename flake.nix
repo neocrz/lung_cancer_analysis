@@ -17,13 +17,12 @@
         default = pkgs.mkShell {
           venvDir = ".venv";
           packages = with pkgs; [ 
-            chromium
             python311
             pandoc
-            playwright
-            playwright-driver
-            texliveTeTeX
-            texlivePackages.tcolorbox
+            # playwright
+            # playwright-driver
+            # texliveTeTeX
+            # texlivePackages.tcolorbox
           ] ++
             (with pkgs.python311Packages; [
               jupyterlab
